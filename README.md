@@ -13,7 +13,7 @@ Per usare il pacchetto va richiamato con la funzione `library()`
 library(luna)
 ```
 # Struttura del pacchetto
-Il pcchetto `luna` è organizzato nel modo seguente:
+Il pacchetto `luna` è organizzato nel modo seguente:
 
 ```r
 luna/
